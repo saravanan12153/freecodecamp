@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,600);
+
+body{
+  font-family: Raleway;
+  color: #f5f5f5;
+  background-color: #eeeeee;
+}
+.container{
+  margin-top: 60px;
+  width: 50%;
+  background-color: #333333;
+  border-radius: 20px;
+}
+.quote{
+  padding-left: 0px;
+}
+.caption{
+  text-align: justify;
+}
+h1, h2{
+  color: #ffd700;
+  margin-bottom: 20px;
+}
+h4{
+  font-size: 1.2em;
+}
+.media-list p{ 
+  text-align: justify;
+}
+.media-object.thumbnail{
+  width: 140px;
+}
